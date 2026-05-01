@@ -516,7 +516,13 @@ app.get('/api/managers', (req, res) => {
   res.json(Object.values(managerMap));
 });
 
-const PORT = 3001;
-app.listen(PORT, () => {
-  console.log(`DevPulse API server running on http://localhost:${PORT}`);
-});
+// Export app for Vercel serverless functions
+export default app;
+
+// Only listen when running locally (not on Vercel)
+if (!process.env.VERCEL) {
+  const PORT = 3001;
+  app.listen(PORT, () => {
+    console.log(`DevPulse API server running on http://localhost:${PORT}`);
+  });
+}
