@@ -1,0 +1,52 @@
+[
+  {
+    "Step-by-Step Assignment Guide": "Follow these steps in order. This is designed to reduce confusion and keep your MVP manageable.",
+    "__EMPTY": "",
+    "__EMPTY_1": ""
+  },
+  {
+    "Step-by-Step Assignment Guide": "Step",
+    "__EMPTY": "What you should do",
+    "__EMPTY_1": "Expected output"
+  },
+  {
+    "Step-by-Step Assignment Guide": "1. Understand the problem",
+    "__EMPTY": "Read Start_Here and Developer_Productivity_Brief. Then write a short note in your own words: What problem are we solving for a developer?",
+    "__EMPTY_1": "A 3–5 line problem summary for yourself."
+  },
+  {
+    "Step-by-Step Assignment Guide": "2. Understand the source tables",
+    "__EMPTY": "Open Data_Model_Overview, Data_Dictionary, and the Fact_* sheets. Identify which tables you need for your MVP.",
+    "__EMPTY_1": "A list of tables and fields you will use."
+  },
+  {
+    "Step-by-Step Assignment Guide": "3. Understand the metrics",
+    "__EMPTY": "Open Metric_Examples and verify how the sample metrics were calculated.",
+    "__EMPTY_1": "A metric plan that you can explain."
+  },
+  {
+    "Step-by-Step Assignment Guide": "4. Choose your MVP journey",
+    "__EMPTY": "Recommended path: one IC sees their metrics, gets a short interpretation, and sees next steps. Optionally add a manager page.",
+    "__EMPTY_1": "A scoped MVP."
+  },
+  {
+    "Step-by-Step Assignment Guide": "5. Use AI responsibly",
+    "__EMPTY": "Ask AI to explain the domain, suggest architecture, and help with code or debugging. Keep only what you understand.",
+    "__EMPTY_1": "A clearer implementation plan."
+  },
+  {
+    "Step-by-Step Assignment Guide": "6. Build the MVP",
+    "__EMPTY": "Use React.js on the front end. Add a backend/API or mock service. Load the sample data and show one reasoning layer, not just charts.",
+    "__EMPTY_1": "A working prototype."
+  },
+  {
+    "Step-by-Step Assignment Guide": "7. Create the Miro board",
+    "__EMPTY": "Use the free Miro template called User Journey. Fill the main sections based on your chosen flow.",
+    "__EMPTY_1": "A Miro board link."
+  },
+  {
+    "Step-by-Step Assignment Guide": "8. Record the video",
+    "__EMPTY": "Record a 5–10 minute walkthrough in clear audio and good lighting. Show the problem, your MVP, and a short demo.",
+    "__EMPTY_1": "A Google Drive video link."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "Evaluation Rubric": "This is for the reviewer, but candidates can also read it to understand what matters.",
+    "__EMPTY": "",
+    "__EMPTY_1": ""
+  },
+  {
+    "Evaluation Rubric": "Category",
+    "__EMPTY": "What good looks like",
+    "__EMPTY_1": "Weight"
+  },
+  {
+    "Evaluation Rubric": "Problem understanding",
+    "__EMPTY": "Explains the developer problem clearly and chooses a sensible scope.",
+    "__EMPTY_1": "20%"
+  },
+  {
+    "Evaluation Rubric": "Product thinking",
+    "__EMPTY": "Shows a coherent user journey and useful reasoning, not just charts.",
+    "__EMPTY_1": "20%"
+  },
+  {
+    "Evaluation Rubric": "Frontend quality",
+    "__EMPTY": "React app is clear, usable, and easy to follow.",
+    "__EMPTY_1": "15%"
+  },
+  {
+    "Evaluation Rubric": "Backend / data handling",
+    "__EMPTY": "Uses the sample data sensibly and keeps the implementation simple.",
+    "__EMPTY_1": "15%"
+  },
+  {
+    "Evaluation Rubric": "Communication",
+    "__EMPTY": "Video is clear, structured, and understandable.",
+    "__EMPTY_1": "15%"
+  },
+  {
+    "Evaluation Rubric": "AI usage discipline",
+    "__EMPTY": "Used AI well without losing originality or understanding.",
+    "__EMPTY_1": "15%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "Developer Productivity Brief": "This gives you enough context to understand the assignment even if you have never worked on a software engineering product before.",
+    "__EMPTY": "",
+    "__EMPTY_1": "",
+    "__EMPTY_2": ""
+  },
+  {
+    "Developer Productivity Brief": "Topic",
+    "__EMPTY": "Plain-English explanation",
+    "__EMPTY_1": "Why it matters",
+    "__EMPTY_2": ""
+  },
+  {
+    "Developer Productivity Brief": "Who is a developer?",
+    "__EMPTY": "A developer is someone who builds and changes software. They write code, review code, test changes, and ship releases with a team.",
+    "__EMPTY_1": "The product you build should help this user make better decisions.",
+    "__EMPTY_2": ""
+  },
+  {
+    "Developer Productivity Brief": "What is SDLC?",
+    "__EMPTY": "SDLC stands for Software Development Life Cycle. In simple terms: plan work, pick up a ticket, write code, review code, test it, deploy it, and fix issues after release.",
+    "__EMPTY_1": "The metrics in this assignment come from these SDLC steps.",
+    "__EMPTY_2": ""
+  },
+  {
+    "Developer Productivity Brief": "Why do teams use developer productivity metrics?",
+    "__EMPTY": "Good teams use metrics to find bottlenecks, improve quality, and make delivery healthier. They should not use them blindly to judge people.",
+    "__EMPTY_1": "Your solution should feel helpful, not punitive.",
+    "__EMPTY_2": ""
+  },
+  {
+    "Developer Productivity Brief": "What is the actual product challenge?",
+    "__EMPTY": "Metrics tell you what happened. A better product helps the user interpret those metrics and decide what to do next.",
+    "__EMPTY_1": "This is the key problem you are solving.",
+    "__EMPTY_2": ""
+  },
+  {
+    "Developer Productivity Brief": "The 5 metrics in this assignment",
+    "__EMPTY": "",
+    "__EMPTY_1": "",
+    "__EMPTY_2": ""
+  },
+  {
+    "Developer Productivity Brief": "Metric",
+    "__EMPTY": "What it means in this workbook",
+    "__EMPTY_1": "Why a developer should care",
+    "__EMPTY_2": "Main source tables"
+  },
+  {
+    "Developer Productivity Brief": "Lead Time for Changes",
+    "__EMPTY": "Average time from PR opened to successful production deployment.",
+    "__EMPTY_1": "Tells how long a change takes to reach users once the review process begins.",
+    "__EMPTY_2": "Fact_Pull_Requests + Fact_CI_Deployments"
+  },
+  {
+    "Developer Productivity Brief": "Cycle Time",
+    "__EMPTY": "Average time from issue moved to In Progress to issue marked Done.",
+    "__EMPTY_1": "Shows how long work stays active once development starts.",
+    "__EMPTY_2": "Fact_Jira_Issues"
+  },
+  {
+    "Developer Productivity Brief": "Bug Rate",
+    "__EMPTY": "Escaped production bugs found in the month divided by issues completed in the month.",
+    "__EMPTY_1": "Shows whether speed is hurting quality.",
+    "__EMPTY_2": "Fact_Bug_Reports + Fact_Jira_Issues"
+  },
+  {
+    "Developer Productivity Brief": "Deployment Frequency",
+    "__EMPTY": "Count of successful production deployments in the month.",
+    "__EMPTY_1": "Frequent safe releases often indicate a healthier delivery loop.",
+    "__EMPTY_2": "Fact_CI_Deployments"
+  },
+  {
+    "Developer Productivity Brief": "PR Throughput",
+    "__EMPTY": "Count of merged pull requests in the month.",
+    "__EMPTY_1": "Useful as an activity signal, but weak if used without quality and speed metrics.",
+    "__EMPTY_2": "Fact_Pull_Requests"
+  }
+]

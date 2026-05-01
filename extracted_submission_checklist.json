@@ -1,0 +1,47 @@
+[
+  {
+    "Submission Checklist": "Keep the submission simple and easy for reviewers to access.",
+    "__EMPTY": "",
+    "__EMPTY_1": ""
+  },
+  {
+    "Submission Checklist": "Deliverable",
+    "__EMPTY": "Requirement",
+    "__EMPTY_1": "Required?"
+  },
+  {
+    "Submission Checklist": "Video walkthrough",
+    "__EMPTY": "5–10 minutes. Clear audio and clear lighting. Upload to Google Drive.",
+    "__EMPTY_1": "Yes"
+  },
+  {
+    "Submission Checklist": "Video access check",
+    "__EMPTY": "Open the Google Drive link in incognito and confirm that reviewers can access it.",
+    "__EMPTY_1": "Yes"
+  },
+  {
+    "Submission Checklist": "Miro board",
+    "__EMPTY": "Use the free Miro template called User Journey. Fill the main sections.",
+    "__EMPTY_1": "Yes"
+  },
+  {
+    "Submission Checklist": "Miro access check",
+    "__EMPTY": "Confirm that reviewers can view your Miro board.",
+    "__EMPTY_1": "Yes"
+  },
+  {
+    "Submission Checklist": "Prototype demo",
+    "__EMPTY": "Show the working prototype briefly in the video.",
+    "__EMPTY_1": "Yes"
+  },
+  {
+    "Submission Checklist": "Code repository or deployed link",
+    "__EMPTY": "Optional but strongly recommended for technical review.",
+    "__EMPTY_1": "Recommended"
+  },
+  {
+    "Submission Checklist": "AI usage note",
+    "__EMPTY": "Briefly state what AI tools you used and how you used them.",
+    "__EMPTY_1": "Recommended"
+  }
+]

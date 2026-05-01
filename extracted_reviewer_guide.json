@@ -1,0 +1,30 @@
+[
+  {
+    "Reviewer Guide": "Use this to keep interviews aligned.",
+    "__EMPTY": ""
+  },
+  {
+    "Reviewer Guide": "Prompt",
+    "__EMPTY": "What to listen for"
+  },
+  {
+    "Reviewer Guide": "Can the candidate explain the problem in plain English?",
+    "__EMPTY": "They should explain the user problem before talking about the tech stack."
+  },
+  {
+    "Reviewer Guide": "Did the candidate choose a reasonable MVP?",
+    "__EMPTY": "A thoughtful small solution should score better than an unfinished big idea."
+  },
+  {
+    "Reviewer Guide": "Do they understand the metrics?",
+    "__EMPTY": "They should know what they calculated and why it matters."
+  },
+  {
+    "Reviewer Guide": "Can they explain their code and AI use?",
+    "__EMPTY": "AI use is fine, but they must understand what they built."
+  },
+  {
+    "Reviewer Guide": "Does the product feel helpful?",
+    "__EMPTY": "The product should guide a developer, not only report numbers."
+  }
+]

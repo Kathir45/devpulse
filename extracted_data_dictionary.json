@@ -1,0 +1,92 @@
+[
+  {
+    "Data Dictionary": "Use this when you are unsure what a field means.",
+    "__EMPTY": "",
+    "__EMPTY_1": "",
+    "__EMPTY_2": ""
+  },
+  {
+    "Data Dictionary": "Table",
+    "__EMPTY": "Field",
+    "__EMPTY_1": "Meaning",
+    "__EMPTY_2": "Common use"
+  },
+  {
+    "Data Dictionary": "Dim_Developers",
+    "__EMPTY": "developer_id",
+    "__EMPTY_1": "Unique developer identifier used across tables.",
+    "__EMPTY_2": "Join key"
+  },
+  {
+    "Data Dictionary": "Dim_Developers",
+    "__EMPTY": "manager_name",
+    "__EMPTY_1": "Manager or team lead name.",
+    "__EMPTY_2": "Manager summary"
+  },
+  {
+    "Data Dictionary": "Fact_Jira_Issues",
+    "__EMPTY": "in_progress_at",
+    "__EMPTY_1": "When active development started on the issue.",
+    "__EMPTY_2": "Cycle time"
+  },
+  {
+    "Data Dictionary": "Fact_Jira_Issues",
+    "__EMPTY": "done_at",
+    "__EMPTY_1": "When the issue was completed.",
+    "__EMPTY_2": "Cycle time, completed issue count"
+  },
+  {
+    "Data Dictionary": "Fact_Jira_Issues",
+    "__EMPTY": "cycle_time_days",
+    "__EMPTY_1": "Helper column = done_at - in_progress_at.",
+    "__EMPTY_2": "Cycle time"
+  },
+  {
+    "Data Dictionary": "Fact_Pull_Requests",
+    "__EMPTY": "opened_at",
+    "__EMPTY_1": "When the pull request was opened.",
+    "__EMPTY_2": "Lead time"
+  },
+  {
+    "Data Dictionary": "Fact_Pull_Requests",
+    "__EMPTY": "first_review_at",
+    "__EMPTY_1": "When first review feedback arrived.",
+    "__EMPTY_2": "Review delay"
+  },
+  {
+    "Data Dictionary": "Fact_Pull_Requests",
+    "__EMPTY": "merged_at",
+    "__EMPTY_1": "When the PR merged.",
+    "__EMPTY_2": "Lead time, PR throughput"
+  },
+  {
+    "Data Dictionary": "Fact_Pull_Requests",
+    "__EMPTY": "review_wait_hours",
+    "__EMPTY_1": "Helper column = first_review_at - opened_at.",
+    "__EMPTY_2": "Reasoning layer"
+  },
+  {
+    "Data Dictionary": "Fact_CI_Deployments",
+    "__EMPTY": "completed_at",
+    "__EMPTY_1": "When the production deployment completed.",
+    "__EMPTY_2": "Lead time, deployment frequency"
+  },
+  {
+    "Data Dictionary": "Fact_CI_Deployments",
+    "__EMPTY": "lead_time_days",
+    "__EMPTY_1": "Helper column = deployment completed_at - PR opened_at.",
+    "__EMPTY_2": "Lead time"
+  },
+  {
+    "Data Dictionary": "Fact_Bug_Reports",
+    "__EMPTY": "escaped_to_prod",
+    "__EMPTY_1": "Whether the bug was found after release.",
+    "__EMPTY_2": "Bug-rate numerator"
+  },
+  {
+    "Data Dictionary": "Fact_Bug_Reports",
+    "__EMPTY": "month_found",
+    "__EMPTY_1": "Month when the bug was found.",
+    "__EMPTY_2": "Monthly grouping"
+  }
+]

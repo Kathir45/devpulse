@@ -1,0 +1,74 @@
+[
+  {
+    "IC Sample View": "This is an example output style. You can design the product differently if your reasoning is clear.",
+    "__EMPTY": "",
+    "__EMPTY_1": "",
+    "__EMPTY_2": ""
+  },
+  {
+    "IC Sample View": "Selected developer",
+    "__EMPTY": "DEV-002",
+    "__EMPTY_1": "",
+    "__EMPTY_2": ""
+  },
+  {
+    "IC Sample View": "Selected month",
+    "__EMPTY": "2026-04",
+    "__EMPTY_1": "",
+    "__EMPTY_2": ""
+  },
+  {
+    "IC Sample View": "",
+    "__EMPTY": "",
+    "__EMPTY_1": "",
+    "__EMPTY_2": "Example interpretation"
+  },
+  {
+    "IC Sample View": "Developer name",
+    "__EMPTY": "Noah Patel",
+    "__EMPTY_1": "",
+    "__EMPTY_2": "This developer can merge work, but the total time to reach production is still slower than ideal. The product should help the user ask what is causing that delay."
+  },
+  {
+    "IC Sample View": "Team",
+    "__EMPTY": "Payments API",
+    "__EMPTY_1": "",
+    "__EMPTY_2": ""
+  },
+  {
+    "IC Sample View": "Lead time (days)",
+    "__EMPTY": 3.75,
+    "__EMPTY_1": "",
+    "__EMPTY_2": "Example next steps"
+  },
+  {
+    "IC Sample View": "Cycle time (days)",
+    "__EMPTY": 5.4,
+    "__EMPTY_1": "",
+    "__EMPTY_2": "1. Reduce PR size or ticket scope so feedback arrives faster."
+  },
+  {
+    "IC Sample View": "PR throughput",
+    "__EMPTY": 2,
+    "__EMPTY_1": "",
+    "__EMPTY_2": "2. Separate review delay from deployment delay before prescribing a fix."
+  },
+  {
+    "IC Sample View": "Deployment frequency",
+    "__EMPTY": 2,
+    "__EMPTY_1": "",
+    "__EMPTY_2": "3. Add one quality safeguard if the bug rate rises."
+  },
+  {
+    "IC Sample View": "Bug rate",
+    "__EMPTY": 0.5,
+    "__EMPTY_1": "",
+    "__EMPTY_2": ""
+  },
+  {
+    "IC Sample View": "Pattern hint",
+    "__EMPTY": "Quality watch",
+    "__EMPTY_1": "",
+    "__EMPTY_2": ""
+  }
+]

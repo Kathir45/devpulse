@@ -1,0 +1,42 @@
+[
+  {
+    "Data Model Overview": "Think of these sheets as source tables from different systems such as Jira, GitHub, and CI/CD.",
+    "__EMPTY": "",
+    "__EMPTY_1": ""
+  },
+  {
+    "Data Model Overview": "Table",
+    "__EMPTY": "What it represents",
+    "__EMPTY_1": "Useful for"
+  },
+  {
+    "Data Model Overview": "Dim_Developers",
+    "__EMPTY": "Reference data for developer, manager, team, role level, and service type.",
+    "__EMPTY_1": "User profile, joins, manager view."
+  },
+  {
+    "Data Model Overview": "Fact_Jira_Issues",
+    "__EMPTY": "Ticketing data similar to Jira work items.",
+    "__EMPTY_1": "Cycle time, issue count, bug-rate denominator."
+  },
+  {
+    "Data Model Overview": "Fact_Pull_Requests",
+    "__EMPTY": "Source-control data similar to GitHub pull requests.",
+    "__EMPTY_1": "Lead time input, review delay, PR throughput."
+  },
+  {
+    "Data Model Overview": "Fact_CI_Deployments",
+    "__EMPTY": "Deployment records from CI/CD.",
+    "__EMPTY_1": "Lead time and deployment frequency."
+  },
+  {
+    "Data Model Overview": "Fact_Bug_Reports",
+    "__EMPTY": "Bugs found after release.",
+    "__EMPTY_1": "Bug rate and quality signals."
+  },
+  {
+    "Data Model Overview": "Metric_Examples",
+    "__EMPTY": "A sample calculation sheet built from the source tables.",
+    "__EMPTY_1": "Reference logic only."
+  }
+]

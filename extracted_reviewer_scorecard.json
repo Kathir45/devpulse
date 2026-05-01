@@ -1,0 +1,72 @@
+[
+  {
+    "Reviewer Scorecard": "Enter scores from 1 to 5. Weighted total calculates automatically.",
+    "__EMPTY": "",
+    "__EMPTY_1": "",
+    "__EMPTY_2": "",
+    "__EMPTY_3": ""
+  },
+  {
+    "Reviewer Scorecard": "Candidate name",
+    "__EMPTY": "",
+    "__EMPTY_1": "Reviewer",
+    "__EMPTY_2": "",
+    "__EMPTY_3": ""
+  },
+  {
+    "Reviewer Scorecard": "Category",
+    "__EMPTY": "Weight",
+    "__EMPTY_1": "Score (1-5)",
+    "__EMPTY_2": "Weighted score",
+    "__EMPTY_3": "Notes"
+  },
+  {
+    "Reviewer Scorecard": "Problem understanding",
+    "__EMPTY": 0.2,
+    "__EMPTY_1": "",
+    "__EMPTY_2": 0,
+    "__EMPTY_3": ""
+  },
+  {
+    "Reviewer Scorecard": "Product thinking",
+    "__EMPTY": 0.2,
+    "__EMPTY_1": "",
+    "__EMPTY_2": 0,
+    "__EMPTY_3": ""
+  },
+  {
+    "Reviewer Scorecard": "Frontend quality",
+    "__EMPTY": 0.15,
+    "__EMPTY_1": "",
+    "__EMPTY_2": 0,
+    "__EMPTY_3": ""
+  },
+  {
+    "Reviewer Scorecard": "Backend / data handling",
+    "__EMPTY": 0.15,
+    "__EMPTY_1": "",
+    "__EMPTY_2": 0,
+    "__EMPTY_3": ""
+  },
+  {
+    "Reviewer Scorecard": "Communication",
+    "__EMPTY": 0.15,
+    "__EMPTY_1": "",
+    "__EMPTY_2": 0,
+    "__EMPTY_3": ""
+  },
+  {
+    "Reviewer Scorecard": "AI usage discipline",
+    "__EMPTY": 0.15,
+    "__EMPTY_1": "",
+    "__EMPTY_2": 0,
+    "__EMPTY_3": ""
+  },
+  {
+    "Reviewer Scorecard": "Total",
+    "__EMPTY": "",
+    "__EMPTY_1": "",
+    "__EMPTY_2": 0,
+    "__EMPTY_3": ""
+  }
+]

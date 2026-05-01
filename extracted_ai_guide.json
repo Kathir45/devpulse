@@ -1,0 +1,54 @@
+[
+  {
+    "AI Use Guide": "AI is allowed and encouraged. Use it to understand the problem faster, explore options, and debug. But the final thinking must still be yours.",
+    "__EMPTY": ""
+  },
+  {
+    "AI Use Guide": "Category",
+    "__EMPTY": "Guidance"
+  },
+  {
+    "AI Use Guide": "AI can help with",
+    "__EMPTY": "Explaining SDLC and the metrics, summarizing the workbook, proposing a React + backend architecture, suggesting UI ideas, generating boilerplate code, debugging, writing tests, and improving wording."
+  },
+  {
+    "AI Use Guide": "You must do yourself",
+    "__EMPTY": "Choose the MVP scope, verify the metric logic, decide the product flow, understand the code, and explain why your solution makes sense."
+  },
+  {
+    "AI Use Guide": "Avoid this",
+    "__EMPTY": "Do not submit a generic AI-built dashboard. Do not trust hallucinated metric logic. Do not present code that you cannot explain."
+  },
+  {
+    "AI Use Guide": "What we will evaluate",
+    "__EMPTY": "How well you understood the problem, the quality of your decisions, and whether you can explain your implementation clearly."
+  },
+  {
+    "AI Use Guide": "Suggested prompts to ask an AI tool",
+    "__EMPTY": ""
+  },
+  {
+    "AI Use Guide": "Prompt label",
+    "__EMPTY": "Prompt"
+  },
+  {
+    "AI Use Guide": "Understand the problem",
+    "__EMPTY": "Summarize this assignment for a fresher in plain English. Explain the problem before suggesting a solution."
+  },
+  {
+    "AI Use Guide": "Understand the data",
+    "__EMPTY": "Explain how these source tables connect to the 5 developer productivity metrics in the workbook."
+  },
+  {
+    "AI Use Guide": "Architecture",
+    "__EMPTY": "Suggest a simple React + backend architecture for this MVP. Keep the scope small and interview-friendly."
+  },
+  {
+    "AI Use Guide": "MVP scoping",
+    "__EMPTY": "Given 2–3 days, what is the smallest credible MVP I can build for this assignment?"
+  },
+  {
+    "AI Use Guide": "Demo prep",
+    "__EMPTY": "Help me structure a 5–10 minute demo video for this assignment."
+  }
+]

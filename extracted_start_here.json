@@ -1,0 +1,72 @@
+[
+  {
+    "Developer Productivity MVP — Intern Assignment Pack": "This workbook is designed for freshers. Read the first 5 sheets in order before you start building anything.",
+    "__EMPTY": "",
+    "__EMPTY_1": ""
+  },
+  {
+    "Developer Productivity MVP — Intern Assignment Pack": "Item",
+    "__EMPTY": "Explanation",
+    "__EMPTY_1": "Why it matters"
+  },
+  {
+    "Developer Productivity MVP — Intern Assignment Pack": "What you are building",
+    "__EMPTY": "A small MVP that helps a developer understand their metrics, interpret likely causes, and see one or two practical next steps.",
+    "__EMPTY_1": "We want to see product thinking, not just dashboards."
+  },
+  {
+    "Developer Productivity MVP — Intern Assignment Pack": "Recommended user",
+    "__EMPTY": "Start with one Individual Contributor (IC). If time permits, add a simple manager summary.",
+    "__EMPTY_1": "A smaller focused solution usually performs better."
+  },
+  {
+    "Developer Productivity MVP — Intern Assignment Pack": "Required stack",
+    "__EMPTY": "Use React.js for the front end. You may choose any reasonable backend, database, or mock server.",
+    "__EMPTY_1": "We want to evaluate core software development ability."
+  },
+  {
+    "Developer Productivity MVP — Intern Assignment Pack": "What success looks like",
+    "__EMPTY": "A clean flow, reasonable metric logic, and a demo you can explain confidently.",
+    "__EMPTY_1": "Clarity matters more than complexity."
+  },
+  {
+    "Developer Productivity MVP — Intern Assignment Pack": "Main warning",
+    "__EMPTY": "Do not over-scope. Do not build a giant analytics platform. Do not hide behind AI-generated code you cannot explain.",
+    "__EMPTY_1": "Good judgment is part of the assignment."
+  },
+  {
+    "Developer Productivity MVP — Intern Assignment Pack": "Read these sheets in order",
+    "__EMPTY": "",
+    "__EMPTY_1": ""
+  },
+  {
+    "Developer Productivity MVP — Intern Assignment Pack": "Sheet",
+    "__EMPTY": "How to use it",
+    "__EMPTY_1": ""
+  },
+  {
+    "Developer Productivity MVP — Intern Assignment Pack": "Developer_Productivity_Brief",
+    "__EMPTY": "Understand the domain: who a developer is, what SDLC means, and why these 5 metrics matter.",
+    "__EMPTY_1": ""
+  },
+  {
+    "Developer Productivity MVP — Intern Assignment Pack": "Assignment_Steps",
+    "__EMPTY": "Follow these steps if you are unsure how to approach the assignment.",
+    "__EMPTY_1": ""
+  },
+  {
+    "Developer Productivity MVP — Intern Assignment Pack": "AI_Guide",
+    "__EMPTY": "Use AI to understand and accelerate. Do not let AI replace your thinking.",
+    "__EMPTY_1": ""
+  },
+  {
+    "Developer Productivity MVP — Intern Assignment Pack": "Data_Model_Overview",
+    "__EMPTY": "See how the source tables fit together.",
+    "__EMPTY_1": ""
+  },
+  {
+    "Developer Productivity MVP — Intern Assignment Pack": "Metric_Examples",
+    "__EMPTY": "Understand one simple way to calculate the assignment metrics.",
+    "__EMPTY_1": ""
+  }
+]
